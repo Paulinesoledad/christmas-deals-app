@@ -1,13 +1,14 @@
 body {
     font-family: 'Arial', sans-serif;
-    background-color: rgba(0, 139, 118, 0.518);            ;
+    background-image: url("./assets/christmasimg.webp");
+    /* background-color: rgba(0, 139, 118, 0.518);         ; */
     margin: 0;
     padding: 0;
   }
   
   nav {
     background-color: rgba(0, 100, 0, 0.367);
-    color: #000;
+    color: #fff;
     padding: 10px;
     text-align: center;
   }
@@ -26,4 +27,5 @@ body {
   h1, p {
     margin: 20px;
     text-align: center;
+    color: #fff;
   }
